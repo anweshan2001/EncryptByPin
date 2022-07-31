@@ -1,0 +1,54 @@
+Trial 1 
+Enter the message that should be encrypted
+Very Difficult to break
+verydifficulttobreak
+Enter the no.of digits that should be entered
+6
+Enter the 1st no.
+556283
+Enter the 2nd no.
+757957
+Enter the 3rd no.
+698123
+Enter the 4th no.
+839685
+Your pin for Encryption is 536123
+Message after encryption is: 
+AHXZFLKIODWOYWUCTHFN
+
+Trial 2
+Enter the message that should be encrypted
+I love pizza
+ilovepizza
+Enter the no.of digits that should be entered
+6
+Enter the 1st no.
+777789
+Enter the 2nd no.
+898786
+Enter the 3rd no.
+678957
+Enter the 4th no.
+456356
+Your pin for Encryption is 456356
+Message after encryption is: 
+3QUYJVM_`D
+
+Trial 3
+
+Enter the message that should be encrypted
+I love Non Veg
+ilovenonveg
+Enter the no.of digits that should be entered
+3
+Enter the 1st no.
+123
+Enter the 2nd no.
+234
+Enter the 3rd no.
+555
+Enter the 4th no.
+321
+Your pin for Encryption is 121
+Message after encryption is: 
+0NPWGOPPWFI
